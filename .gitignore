@@ -1,0 +1,22 @@
+# Excel temporary and lock files
+
+~$*.xlsx
+~$*.xls
+~$*.xlsm
+*.tmp
+*.bak
+
+# Office temporary files
+
+~$*
+
+# Operating system files
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary exports and logs
+
+*.log
+*.temp
