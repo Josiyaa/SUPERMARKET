@@ -76,4 +76,4 @@ formatting.
 
 ## Author
 
-Add your name and internship/project details here.
+JOSIYA ANTONY
